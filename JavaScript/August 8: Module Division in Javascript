@@ -1,0 +1,33 @@
+On 8/8, we started Meta's front-end course. 
+I would start by adding the content associated with Java script, and how to divide the concepts in JS.
+
+PROGRAMMING WITH JAVASCRIPT : 
+  Module 1: Introduction to JavaScript
+    Explain the importance of JavaScript in software development
+    Demonstrate how to write JavaScript code inside the browser
+    Demonstrate how to write basic JavaScript code
+    List common operators, conditional statements and loops
+    Demonstrate how to use variables and output their value in the console
+  Module 2: The building blocks of a program
+    Build and use objects, arrays, and functions
+    List some common built-in methods on built-in objects
+    Describe handling bugs and errors using try, catch, throw, and defensive programming
+    Explain the difference between undefined, null, and empty strings
+    Demonstrate how to write basic code using arrays, objects and functions
+  Module 3: Programming paradigms
+    Outline the tenets of the functional programming and object oriented programming paradigm
+    Describe how scope works in JavaScript
+    List the differences between var, let, and const
+    Use classes and inheritance in OOP in JavaScript
+    Write JavaScript code using more modern features like spread, rest, template strings and modules
+    Build code that manipulates the DOM and handles events
+    Use JSON in JavaScript
+  Module 4: Testing and compatibility
+    Describe Node.js and npm
+    Explain how to install npm packages
+    Describe how to work with package.json
+    Explain the process of testing in JavaScript
+    List the three most prevalent kinds of testing
+    Demonstrate how to code a simple unit test in Jest
+
+ 
